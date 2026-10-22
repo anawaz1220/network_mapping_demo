@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.1c856f8a632d5d6aa40904b2f07d01cd.js"
+  "precache-manifest.20261022b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "zorkon-maps"});
